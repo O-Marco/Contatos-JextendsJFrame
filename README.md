@@ -1,4 +1,4 @@
-# Sistema de Agenda de Contatinhos em Java
+# Sistema de Agenda de Contatos em Java
 
 Este é um projeto simples desenvolvido em Java que simula um sistema de gerenciamento de contatos. Ele utiliza a biblioteca Swing para fornecer uma **Interface Gráfica (GUI)** completa, permitindo ao 
 usuário adicionar, buscar e persistir contatos em um arquivo de texto.
