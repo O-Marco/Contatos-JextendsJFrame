@@ -41,3 +41,7 @@ O projeto é composto pelas seguintes classes principais:
     * Use a aba **"Buscar Contato"** para pesquisar um nome na sua agenda.
 
 ---
+<img width="400" height="400" alt="Captura de tela 2025-11-15 232507" src="https://github.com/user-attachments/assets/7be3db59-eaa6-4274-89fa-dc7688790f88" />
+
+
+<img width="400" height="400" alt="Captura de tela 2025-11-15 232519" src="https://github.com/user-attachments/assets/7a5ea247-4a6f-4190-b64b-f2f06c004ed8" />
